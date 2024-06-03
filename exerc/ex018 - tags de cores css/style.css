@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+* {  
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-image: linear-gradient(to right, #BDE038, #A3AB78, #818274 80%);
+}
+
+main {
+    background-color: white;
+    box-shadow: 5px 5px 10px #626356f8;
+    border-radius: 10px;
+    width: 700px;
+    padding: 10px;
+    margin: auto;
+}
+
+h1 {
+    color: #10454F;
+    text-align: center;
+    text-shadow: 1px 1px 1px #626356f8;
+}
+
+h2 {
+    color: #818274;
+}
+p {
+    text-align: justify;
+}

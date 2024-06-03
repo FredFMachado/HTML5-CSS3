@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+#principal {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 45px;
+}
+
+#menu {
+    padding-right: 10px;
+    color: white;
+    text-indent: 15px
+    
+}
+
+div:hover > p {
+    text-decoration: underline;
+    
+}
+
+article > iframe {
+    padding: auto;
+    margin: auto;
+    
+}
+
+#extra {
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    background-color: green;
+    border-radius: 10px 10px 0px 0px;
+}
